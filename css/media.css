@@ -1,20 +1,4 @@
-@media(max-width:1200){
-    .last .chlast{
-        width: 40%;
-        flex-wrap: wrap;
-    }
-    .last .chlast img {
-        width: 420px;
-        height: 420px;
-        text-align: center;
-    }
 
-    .last .chlast form {
-        text-align: left;
-        width: 380px;
-        height: 400px;
-    }
-}
 @media(max-width:950px) {
     .home .nav ul {
         display: none;
@@ -171,14 +155,14 @@
     }
 
     .last .chlast img {
-        width: 350px;
+        width: 420px;
         height: 420px;
         text-align: center;
     }
 
     .last .chlast form {
         text-align: left;
-        width: 350px;
+        width: 400px;
         height: 400px;
     }
 
@@ -209,7 +193,6 @@
 
     .perent1 {
         text-align: center;
-        flex-direction: column-reverse;
 
     }
 
