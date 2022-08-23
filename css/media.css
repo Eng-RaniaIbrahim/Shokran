@@ -1,0 +1,403 @@
+@media(max-width:1200){
+    .last .chlast{
+        width: 40%;
+        flex-wrap: wrap;
+    }
+    .last .chlast img {
+        width: 420px;
+        height: 420px;
+        text-align: center;
+    }
+
+    .last .chlast form {
+        text-align: left;
+        width: 380px;
+        height: 400px;
+    }
+}
+@media(max-width:950px) {
+    .home .nav ul {
+        display: none;
+    }
+
+    .home .nav .bars {
+        display: block;
+    }
+
+    .img1 {
+        display: block;
+        margin: 5px;
+        padding-bottom: 5px;
+    }
+
+    .perent1 {
+        text-align: center;
+
+    }
+    
+    .perent1 .child1 {
+        width: 50%
+    }
+
+    .img2 {
+        width: 300px;
+        height: 300px
+    }
+
+    .perent1 .child1 h1 {
+        font-size: 30px;
+    }
+    
+    .perent1 .child1 p {
+        font-size: 22px;
+    }
+
+    .perent1 .child1 .but2 {
+        margin-bottom: 15px;
+    }
+
+    .images .childimages {
+        width: 30%;
+      justify-content: space-around;
+    }
+    .img3 {
+        width: 80px;
+        height: 80px; 
+    }
+
+    /*=======================*/
+    .perent2 .child2 {
+        width: 50%;
+        text-align: center;
+    }
+
+    .perent2 .child2 .img4 {
+        width: 80%;
+        height: 330px;
+
+    }
+
+    .perent2 .child2 {
+        font-size: 18px;
+    }
+
+    .perent2 .child2 .but3 {
+        margin-right: 70%;
+    }
+
+    .perent3 .child3 {
+        width: 45%;
+    }
+
+    .perent3 .child3 p {
+        font-size: 20px;
+    }
+    /*===================================*/
+    .count .chcount .cou1 {
+        width: 45%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .count .chcount .cou2 {
+        width: 45%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .count .chcount .cou3 {
+        width: 45%;
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+
+    .count2 .chcount2 .cou4 {
+        width: 45%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .count2 .chcount2 .cou5 {
+
+        width: 45%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .count2 .chcount2 .cou6 {
+
+        width: 45%;
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+
+    .count3 .chcount3 .cou7 {
+
+        width: 45%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .count3 .chcount3 .cou8 {
+
+        width: 45%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .count3 .chcount3 .cou9 {
+
+        width: 45%;
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+    .im {
+        text-align: center;
+    }
+
+   
+
+    img {
+        width: 200px;
+        height: 220px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    .last .chlast {
+        width: 45%;
+        text-align: center;
+
+    }
+
+    .last .chlast img {
+        width: 350px;
+        height: 420px;
+        text-align: center;
+    }
+
+    .last .chlast form {
+        text-align: left;
+        width: 350px;
+        height: 400px;
+    }
+
+    .last .chlast form input {
+        width: 95%;
+
+    }
+
+
+}
+
+/*===========================media 750===============*/
+
+@media(max-width:750px) {
+    .home .nav ul {
+        display: none;
+    }
+
+    .home .nav .bars {
+        display: block;
+    }
+
+    .img1 {
+        display: block;
+        margin: 5px;
+        padding-bottom: 5px;
+    }
+
+    .perent1 {
+        text-align: center;
+        flex-direction: column-reverse;
+
+    }
+
+    .perent1 .child1 {
+        width: 95%
+    }
+
+    .img2 {
+        width: 330px;
+        height: 330px
+    }
+
+    .perent1 .child1 h1 {
+        font-size: 33px;
+    }
+
+    .perent1 .child1 p {
+        font-size: 24px;
+    }
+
+    .perent1 .child1 .but2 {
+        margin-bottom: 15px;
+    }
+
+    .images .childimages {
+        width: 40%;
+        justify-content: space-between;
+    }
+
+    .header h2 {
+
+        font-size: 30px;
+
+    }
+
+    .perent2 .child2 {
+        width: 95%;
+        text-align: center;
+    }
+
+    .perent2 .child2 .img4 {
+        width: 98%;
+        height: 330px;
+
+    }
+
+    .perent2 .child2 {
+        font-size: 18px;
+    }
+
+    .perent2 .child2 .but3 {
+        margin-right: 70%;
+    }
+
+    .perent3 .child3 {
+        width: 95%;
+    }
+
+    .perent3 .child3 p {
+        font-size: 18px;
+    }
+
+    .count .chcount .cou1 {
+        width: 95%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .count .chcount .cou2 {
+        width: 95%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .count .chcount .cou3 {
+        width: 95%;
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+
+    .count2 .chcount2 .cou4 {
+        width: 95%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .count2 .chcount2 .cou5 {
+
+        width: 95%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .count2 .chcount2 .cou6 {
+
+        width: 95%;
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+
+    .count3 .chcount3 .cou7 {
+
+        width: 95%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .count3 .chcount3 .cou8 {
+
+        width: 95%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .count3 .chcount3 .cou9 {
+
+        width: 95%;
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+
+    .im {
+        text-align: center;
+    }
+
+    .im #one {
+        width: 95%
+    }
+
+    img {
+        width: 250px;
+        height: 250px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    .last .chlast {
+        width: 95%;
+        text-align: center;
+
+    }
+
+    .last .chlast img {
+        width: 370px;
+        height: 400px;
+        text-align: center;
+    }
+
+    .last .chlast form {
+        text-align: left;
+        width: 400px;
+        height: 400px;
+    }
+
+    .last .chlast form input {
+        width: 95%;
+
+    }
+
+    .finaly h3 {
+        margin-left: 20px;
+    }
+
+    .finaly p {
+        margin-left: 20px;
+    }
+
+    .finaly .finalychild {
+        margin-left: 20px;
+    }
+
+    .revtion .rev {
+        width: 95%;
+        text-align: center;
+    }
+}
+
+/*=============450==================*/
+@media(max-width:450px) {
+    .last .chlast {
+        text-align: center;
+        width:95%;
+    }
+    .last .chlast form{
+        width:97%;
+        height: 400px;
+        margin: 2px;
+        padding-left: 2px;
+    }
+
+}
