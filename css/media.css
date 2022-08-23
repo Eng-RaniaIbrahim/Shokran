@@ -16,7 +16,7 @@
 
     .perent1 {
         text-align: center;
-
+        flex-direction: column-reverse;
     }
     
     .perent1 .child1 {
