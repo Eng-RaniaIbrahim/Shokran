@@ -1,4 +1,4 @@
-
+/*==================950================*/
 @media(max-width:950px) {
     .home .nav ul {
         display: none;
@@ -16,7 +16,7 @@
 
     .perent1 {
         text-align: center;
-        flex-direction: column-reverse;
+
     }
     
     .perent1 .child1 {
@@ -40,10 +40,15 @@
         margin-bottom: 15px;
     }
 
-    .images .childimages {
-        width: 30%;
-      justify-content: space-around;
-    }
+    
+.images .childimages {
+    width: 95%;
+    justify-content: space-between;
+}
+.images .childimages .img3{
+    width:30%;
+    height: 80px;
+}
     .img3 {
         width: 80px;
         height: 80px; 
@@ -376,11 +381,103 @@
         text-align: center;
         width:95%;
     }
-    .last .chlast form{
+    .last .chlast img{
         width:97%;
+        height: 500px; 
+    }
+    .last .chlast form{
+        width:99%;
         height: 400px;
-        margin: 2px;
+   
         padding-left: 2px;
     }
+    
+.images .childimages {
+    width: 95%;
+    justify-content: space-between;
+}
+.images .childimages .img3{
+    width:40%;
+}
+  
+}
+/*====================414====================*/
+@media(max-width:414px) {
+    .last .chlast {
+        text-align: center;
+        width:95%;
+    }
+    .last .chlast img{
+        width:97%;
+        height: 500px; 
+    }
+    .last .chlast form{
+        width:99%;
+        height: 400px;
+        margin: 1px;
+        padding-left: 2px;
+    }
+    .images .childimages {
+        width: 95%;
+        justify-content: space-between;
+    }
+    .images .childimages .img3{
+        width:40%;
+    }
+  
+}
+/*================393===================*/
+@media(max-width:393px) {
+    .images .childimages {
+        width: 95%;
+        justify-content: space-between;
+    }
+    .images .childimages .img3{
+        width:40%;
+    }
+}
+/*===============380====================*/
+@media(max-width:380px) {
+    .images .childimages {
+        width: 95%;
+        justify-content: space-between;
+    }
+    .images .childimages .img3{
+        width:40%;
+    }
 
+}
+/*============820==========*/
+@media(max-width:820px){
+    .last .chlast{
+        text-align: center;
+    }
+    .last .chlast form{
+        width:90%;
+        height: 400px;
+     }
+
+}
+
+/*=========280===========*/
+@media(max-width:280px){
+    .perent1 .child1 .img2{
+        width: 45%;
+        height: 100px;
+    }
+.last .chlast img{
+    width:95%;
+    height: 200px;
+}
+.last .chlast form{
+    width:95%;
+    height: 390px;
+}
+.images .childimages {
+    width: 95%;
+    justify-content: space-between;
+}
+.images .childimages .img3{
+    width:40%;
+}
 }
