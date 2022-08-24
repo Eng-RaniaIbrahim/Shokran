@@ -102,7 +102,7 @@ body {
 }
 
 .img2 {
-    width: 400px;
+    width: 90%;
     height: 400px;
     animation-name: anamy;
     animation-duration: 5s;
@@ -166,7 +166,7 @@ body {
     flex-wrap: wrap;
 }
 .img3 {
-    width: 70px;
+    width: 10%;
     height: 70px; 
     margin-top: 10px;
     margin-bottom: 10px;
@@ -201,7 +201,7 @@ body {
 }
 
 .perent2 .child2 .img4 {
-    width: 500px;
+    width: 90%;
     height: 370px;
     margin-top: 10px;
 }
@@ -484,14 +484,14 @@ img {
 }
 
 .last .chlast img {
-    width: 550px;
+    width: 80%;
     height: 500px;
     margin-top: 8px;
     /*padding-left: 45px;*/
 }
 
 .last .chlast form {
-    width: 70%;
+    width: 75%;
     height: 500px;
     margin: 12px;
     padding-left: 25px;
@@ -500,7 +500,7 @@ img {
     background-color: rgb(253, 253, 253);
 }
 .last .chlast form input{
-    width: 95%;
+    width: 98%;
     height: 40px;
   
     margin-bottom: 30px; 
